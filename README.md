@@ -17,8 +17,9 @@ A free user-account on [www.lucidchart.com](www.lucidchart.com) is required to b
 ### Description
 This is and implementation of the Cloudformation diagram specified in the the previous section diagram.
 The implementation is devided into two parts: 
-    * The network side which can be found in network.yml and the parameters of the network is in network_params.json
-    * The server side which can be found in server.yml and the parameters of the server is in server_params.json
+
+    1. The network side which can be found in network.yml and the parameters of the network is in network_params.json
+    2. The server side which can be found in server.yml and the parameters of the server is in server_params.json
 
 ### Test Url
 The url for testing the loadbalancer: http://proje-webap-x4axy20obqu8-652384301.us-east-1.elb.amazonaws.com/
