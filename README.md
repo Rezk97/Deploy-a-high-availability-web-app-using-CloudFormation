@@ -26,7 +26,7 @@ The url for testing the loadbalancer: http://proje-webap-x4axy20obqu8-652384301.
 ### How to run the supporting material?
 You can run the supporting material in easy steps:
 ```bash
-# Ensure that the AWS CLI is configured before runniing the command below
+# Ensure that the AWS CLI is configured before runniing the commands below
 # Check the region in the create_stack.sh and update_stack.sh files
 
 # Create network stack
