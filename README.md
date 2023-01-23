@@ -27,8 +27,7 @@ The url for testing the loadbalancer: http://proje-webap-x4axy20obqu8-652384301.
 You can run the supporting material in easy steps:
 ```bash
 # Ensure that the AWS CLI is configured before runniing the command below
-# Create the network infrastructure
-# Check the region in the create_stack.sh file
+# Check the region in the create_stack.sh and update_stack.sh files
 
 # Create network stack
 ./create_stack.sh project2-network-stack network.yml network_params.json
