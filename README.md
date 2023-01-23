@@ -11,11 +11,11 @@ An editor would be helpful to visualize the image as well as code. Download the 
 ##### 3. An account on www.lucidchart.com
 A free user-account on [www.lucidchart.com](www.lucidchart.com) is required to be able to draw the web app architecture diagrams for AWS.
 
-### Cloudformation diagram
+### Web App Architecture Diagrams
 <img title="Cloudformation Diagram" alt="Alt text" src="./diagram.jpeg">
 
 ### Description
-This is and implementation of the Cloudformation diagram specified in the the previous section diagram.
+This is an implementation of the diagram specified in the the previous section.
 The implementation is devided into two parts: 
 
     1. The network side which can be found in network.yml and the parameters of the network is in network_params.json
